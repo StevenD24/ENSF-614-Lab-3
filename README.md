@@ -1,4 +1,4 @@
-# ENSF 614 Assignment 3    
+# ENSF 614 Lab 3    
 An assignment on Object Oriented Programming in C++
 
 ## Folder Structure 
